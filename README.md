@@ -1,2 +1,3 @@
-# aaaa
+# gaiyou
+gitレクチャー用のリポジトリ
 ## ahahaha
